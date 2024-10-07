@@ -14,3 +14,5 @@ The dataset consists of Amazon customer reviews in text format. Each review is l
 
 - **Training Data**: `train.ft.txt`
 - **Test Data**: `test.ft.txt`
+
+You can download the dataset from https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
